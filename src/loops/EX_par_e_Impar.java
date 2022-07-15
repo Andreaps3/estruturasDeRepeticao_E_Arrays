@@ -7,7 +7,7 @@ package loops;
 
 import java.util.Scanner;
 
-public class par_e_Impar {
+public class EX_par_e_Impar {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 

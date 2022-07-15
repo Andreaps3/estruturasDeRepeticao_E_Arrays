@@ -14,7 +14,7 @@ import java.util.Scanner;
 * ...
 * 5 x 10 = 50
 * */
-public class tabuada {
+public class Ex_Tabuada {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 

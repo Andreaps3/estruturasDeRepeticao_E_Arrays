@@ -6,7 +6,7 @@ package loops;
 
 import java.util.Scanner;
 
-public class Ex_Nota {
+public class Ex_NomeIdade {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String nome;
